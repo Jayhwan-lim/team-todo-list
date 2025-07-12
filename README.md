@@ -53,5 +53,5 @@ This project was deployed using [Vercel](https://vercel.com):
 
 ---
 
-> Built with ❤️ by James
+> Built with ❤️ by Jaehwan
 
