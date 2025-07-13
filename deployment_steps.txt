@@ -1,0 +1,9 @@
+Deployment Steps:
+
+1. Created a new public GitHub repository named "team-todo-list".
+2. Opened GitHub Desktop and created a local repository pointing to the folder containing the index.html file.
+3. Committed the project and pushed it to the new GitHub repository.
+4. Logged into Vercel (https://vercel.com) and selected "Add New Project".
+5. Imported the "team-todo-list" repository from GitHub.
+6. Vercel automatically detected it as a static HTML project and deployed it without extra configuration.
+7. Copied the deployment URL (e.g., https://team-todo-list.vercel.app) to be used as the public application link.

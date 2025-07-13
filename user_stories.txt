@@ -1,0 +1,9 @@
+User Stories:
+
+1. As a team member, I want to add tasks with a title, deadline, and owner so that responsibilities are clearly assigned.
+
+2. As a team member, I want to see when each task was created in UTC time, so the entire team works with a shared time reference.
+
+3. As a user, I want to be able to delete tasks once they are completed or no longer needed, to keep the task list clean and up-to-date.
+
+4. As a team, we want a clean and organized table layout so we can easily view and manage multiple tasks together.
